@@ -4,6 +4,7 @@
 * [Üniversite Yönetim Sistemi](#üniversite-yönetim-sistemi)
 * [Hayvanat Bahçesi Yönetimi](#hayvanat-bahçesi-yönetimi)
 * [Uçuş Yönetim Sistemi](#uçuş-yönetim-sistemi)
+* [Online Film Sistemi](#online-film-sistemi)
 
 ---
 
@@ -30,6 +31,10 @@
   
 ![UML Diyagramı](./Hayvanat-Bahcesi-Yonetimi.svg)
 
+<details>
+    <summary>Class Diagram için tıklayınız.</summary>
+   <img src="https://raw.githubusercontent.com/celalgundogdu/patika-java-101/master/img/university-system.png">
+</details>
 ---
 
 ## Uçuş Yönetim Sistemi
@@ -46,4 +51,16 @@
 ![UML Diyagramı](./Ucus-Yonetim-Sistemi.svg)
 
 ---
+
+## Online Film Sistemi
+* Uygulamada filmler listelenebilir, sıralanabilir ve kullanıcılar uygulamaya abone olabilir.
+* Kullanıcılar abonelik için sistem üzerinden kredi satın alır.
+* Sadece abone olan kullanıcılar, kredileri ile film kiralayabilir ve kiraladığı filmin kredi bedeli kadar hesabından düşülür.
+* Normal kullanıcılar ve aboneler film satın alabilirler.
+* Eğer film mevcut değil ise talep edilebilir.
+
+![UML Diyagramı](./Online-Film-Sistemi.svg)
+
+---
+
 

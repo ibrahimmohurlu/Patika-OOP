@@ -16,7 +16,7 @@
 3. Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
 4. Her çalışan bir ofiste çalışır.
 
-![UML Diyagramı](./Universite-Yonetim-Sistemi.svg)
+![UML Diyagramı](./Diyagramlar/Universite-Yonetim-Sistemi.svg)
 
 ---
 
@@ -30,12 +30,8 @@
   * Sistem ayrıca her hayvan için belirli ilaçların dozajını alabilmeli => getDosage ()
   * Sistem Yem verme zamanlarını hesaplayabilmelidir => getFeedSchedule ()
   
-![UML Diyagramı](./Hayvanat-Bahcesi-Yonetimi.svg)
+![UML Diyagramı](./Diyagramlar/Hayvanat-Bahcesi-Yonetimi.svg)
 
-<details>
-    <summary>Class Diagram için tıklayınız.</summary>
-   <img src="https://raw.githubusercontent.com/celalgundogdu/patika-java-101/master/img/university-system.png">
-</details>
 ---
 
 ## Uçuş Yönetim Sistemi
@@ -49,7 +45,7 @@
 * Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.
 * Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
 
-![UML Diyagramı](./Ucus-Yonetim-Sistemi.svg)
+![UML Diyagramı](./Diyagramlar/Ucus-Yonetim-Sistemi.svg)
 
 ---
 
@@ -60,10 +56,10 @@
 * Normal kullanıcılar ve aboneler film satın alabilirler.
 * Eğer film mevcut değil ise talep edilebilir.
 
-![UML Diyagramı](./Online-Film-Sistemi.svg)
+![UML Diyagramı](./Diyagramlar/Online-Film-Sistemi.svg)
 
 ---
 
 ## Asansör Simulasyonu
 
-![UML Diyagramı](./Asansor-Simulasyonu.svg)
+![UML Diyagramı](./Diyagramlar/Asansor-Simulasyonu.svg)
